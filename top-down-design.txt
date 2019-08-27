@@ -1,0 +1,55 @@
+Doing Laundry
+1. Organize clothing
+  1.1 Empty hamper
+  1.2 Separate into lights and darks
+  1.3 Remove dry-cleaning clothing
+2. Wash clothing
+  2.1 Washing darks
+    2.1.1 Put darks into washing machine
+    2.1.2 Close washer door
+    2.1.3 Add detergent
+      2.1.3.1 Open detergent
+      2.1.3.2 Pour detergent up to fill line in dispenser
+      2.1.3.3 Place cap back on detergent
+    2.1.4 Add fabric softener
+      2.1.4.1 Open fabric softener
+      2.1.4.2 Pour fabric softener up to fill line in dispenser
+      2.1.4.3 Place cap back on fabric softener
+    2.1.5 Close dispenser door
+    2.1.6 Choose cycle - regular
+    2.1.7 Press "Start"
+  2.2 Wait for darks to finish
+  2.3 Move washed darks into dryer
+  2.4 Close dryer door
+  2.5 Select dryer cycle - regular, press start
+  2.6 Washing lights
+    2.6.1 Put lights into washing machine
+    2.6.2 Close washer door
+    2.6.3 Add detergent
+      2.6.3.1 Open detergent
+      2.6.3.2 Pour detergent up to fill line in dispenser
+      2.6.3.3 Place cap back on detergent
+    2.6.4 Add fabric softener
+      2.6.4.1 Open fabric softener
+      2.6.4.2 Pour fabric softener up to fill line in dispenser
+      2.6.4.3 Place cap on softener
+    2.6.5 Close dispenser door
+    2.6.6 Choose cycle - lights
+    2.6.7 Press "Start"
+  2.7 Remove darks from dryer, place in hamper
+  2.8 Move washed lights into dryer
+  2.9 Select dryer cycle - regular, press start
+3. Fold clothing
+  3.1 Fold shirts
+    3.1.1 Create pile for folded shirts
+  3.2 Fold pants
+    3.2.1 Create pile for folded pants
+  3.3. Fold socks, underwear, etc.
+    3.3.1 Create pile for folded socks, underwear, etc.
+4. Put clothing away
+  4.1 Hang shirts
+    4.1.1 Retrieve hangers
+    4.1.2 Place each shirt on hangers
+    4.1.3 Hang shirts in closet
+  4.2 Put folded pants in drawer
+  4.3 Put folded socks, underwear, etc. in drawer
