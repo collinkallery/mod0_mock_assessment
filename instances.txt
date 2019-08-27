@@ -1,0 +1,12 @@
+Object: Collin (as a child)
+
+Attributes:
+age: 12
+eyeColor: "brown"
+names: "Collin", "Patrick", "Kallery"
+adopted: false
+
+Methods:
+calculateBMI: 61 kg / 2.98 = 20.47
+caluculateYearsUntilAdult: 18 - 12 = 6
+showEyeColor: brown
