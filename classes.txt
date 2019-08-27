@@ -1,0 +1,17 @@
+Class: Child
+
+Attributes:
+age (integer)
+eyeColor (string)
+names (string)
+hobbies (array)
+gender (string)
+adopted (boolean)
+height (integer)
+weight (integer)
+
+Methods:
+calculateBMI: weight divided by height squared
+caluculateYearsUntilAdult: subtracts age from 18
+showEyeColor: displays color of eye
+prioritizeHobbies: lists hobbies in order from most frequently to least frequently completed
